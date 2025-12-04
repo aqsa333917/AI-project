@@ -1,0 +1,746 @@
+{
+  "questions": {
+    "easy": [
+      {
+        "type": "mcq",
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "It is also called the City of Light."
+      },
+      {
+        "type": "mcq",
+        "question": "How many continents are there on Earth?",
+        "options": ["5", "6", "7", "8"],
+        "answer_index": 2,
+        "points": 1,
+        "hint": "Think about Africa, Asia ... total number."
+      },
+      {
+        "type": "mcq",
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "It is named after the Roman god of war."
+      },
+      {
+        "type": "mcq",
+        "question": "What is H2O commonly known as?",
+        "options": ["Hydrogen", "Water", "Oxygen", "Salt"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "You drink it every day."
+      },
+      {
+        "type": "mcq",
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": ["Tiger", "Lion", "Elephant", "Bear"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "It has a mane."
+      },
+      {
+        "type": "mcq",
+        "question": "Which fruit is yellow and curved?",
+        "options": ["Apple", "Banana", "Orange", "Grapes"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Monkeys love it."
+      },
+      {
+        "type": "mcq",
+        "question": "Which day comes after Friday?",
+        "options": ["Saturday", "Sunday", "Thursday", "Monday"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Weekend begins."
+      },
+      {
+        "type": "mcq",
+        "question": "Which color do you get by mixing blue and yellow?",
+        "options": ["Green", "Purple", "Orange", "Brown"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "It’s the color of grass."
+      },
+      {
+        "type": "mcq",
+        "question": "Which sport uses a bat and a ball?",
+        "options": ["Football", "Cricket", "Tennis", "Hockey"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Very popular in South Asia."
+      },
+      {
+        "type": "mcq",
+        "question": "Which ocean is the largest on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer_index": 3,
+        "points": 1,
+        "hint": "It stretches from Asia to America."
+      },
+      {
+        "type": "mcq",
+        "question": "Which gas do humans breathe to survive?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "It makes up about 21% of air."
+      },
+      {
+        "type": "mcq",
+        "question": "Which instrument has black and white keys and makes music?",
+        "options": ["Guitar", "Piano", "Violin", "Drums"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "It’s often found in a music classroom."
+      },
+      {
+        "type": "mcq",
+        "question": "Which country is famous for the Eiffel Tower?",
+        "options": ["Italy", "France", "Spain", "Germany"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Think of Paris."
+      },
+      {
+        "type": "mcq",
+        "question": "What number comes after 99?",
+        "options": ["100", "101", "102", "99"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "One more than ninety‑nine."
+      },
+      {
+        "type": "mcq",
+        "question": "Which animal lays eggs?",
+        "options": ["Lion", "Elephant", "Chicken", "Dog"],
+        "answer_index": 2,
+        "points": 1,
+        "hint": "Common farm bird."
+      },
+      {
+        "type": "mcq",
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "It’s also the smallest planet in our solar system."
+      },
+      {
+        "type": "mcq",
+        "question": "Which month comes after December?",
+        "options": ["January", "November", "October", "February"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "It is the first month of next year."
+      },
+      {
+        "type": "mcq",
+        "question": "Which sea creature has eight legs?",
+        "options": ["Crab", "Octopus", "Shark", "Lobster"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "It’s often in cartoons grabbing fish with its tentacles."
+      },
+      {
+        "type": "mcq",
+        "question": "Which fruit is typically red and crunchy?",
+        "options": ["Banana", "Apple", "Grapes", "Orange"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "A common snack fruit."
+      },
+      {
+        "type": "mcq",
+        "question": "What do bees produce?",
+        "options": ["Milk", "Honey", "Sugar", "Butter"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Sweet and golden."
+      },
+      {
+        "type": "mcq",
+        "question": "Which continent is the largest by area?",
+        "options": ["Africa", "Asia", "Europe", "North America"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "It includes China and India."
+      },
+      {
+        "type": "mcq",
+        "question": "Which color results from mixing red and white?",
+        "options": ["Pink", "Purple", "Orange", "Brown"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Often used to show love."
+      },
+      {
+        "type": "mcq",
+        "question": "Which tool is used to measure temperature?",
+        "options": ["Thermometer", "Barometer", "Ruler", "Scale"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Used to check fever."
+      },
+      {
+        "type": "mcq",
+        "question": "Which organ pumps blood in the human body?",
+        "options": ["Lungs", "Heart", "Kidney", "Brain"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "It beats constantly."
+      },
+      {
+        "type": "mcq",
+        "question": "Which metal is precious and used for jewelry?",
+        "options": ["Gold", "Iron", "Aluminum", "Copper"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Symbol of wealth."
+      },
+      {
+        "type": "mcq",
+        "question": "Which season comes after spring?",
+        "options": ["Summer", "Winter", "Autumn", "Monsoon"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "It’s hot and sunny."
+      },
+      {
+        "type": "mcq",
+        "question": "Which bird is known for mimicking human speech?",
+        "options": ["Parrot", "Crow", "Sparrow", "Eagle"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Colorful tropical pet bird."
+      },
+      {
+        "type": "mcq",
+        "question": "Which vegetable is orange in color and crunchy?",
+        "options": ["Carrot", "Potato", "Tomato", "Cucumber"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Good for eyesight."
+      },
+      {
+        "type": "mcq",
+        "question": "Which planet has rings around it?",
+        "options": ["Mars", "Saturn", "Jupiter", "Venus"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Famous gas giant with visible rings."
+      },
+      {
+        "type": "mcq",
+        "question": "Which instrument typically has six strings and is played by strumming?",
+        "options": ["Violin", "Guitar", "Piano", "Flute"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Common in rock and pop music."
+      },
+      {
+        "type": "mcq",
+        "question": "Which is the smallest prime number?",
+        "options": ["1", "2", "3", "5"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Only even prime number."
+      },
+      {
+        "type": "mcq",
+        "question": "Which resource can generate electricity when used with water or wind?",
+        "options": ["Oil", "Coal", "Water", "All of these"],
+        "answer_index": 3,
+        "points": 1,
+        "hint": "Includes renewable and non‑renewable sources."
+      },
+      {
+        "type": "mcq",
+        "question": "Which fruit has seeds on the outside surface?",
+        "options": ["Apple", "Strawberry", "Orange", "Banana"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Bright red and tiny seeds on surface."
+      },
+      {
+        "type": "mcq",
+        "question": "Which device do we use to see distant stars and planets?",
+        "options": ["Microscope", "Telescope", "Magnifying Glass", "Binoculars"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Used by astronomers."
+      },
+      {
+        "type": "mcq",
+        "question": "What color do you get by mixing red and blue?",
+        "options": ["Green", "Purple", "Orange", "Brown"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Often linked with royalty."
+      },
+      {
+        "type": "mcq",
+        "question": "Which animal is known for its very long neck?",
+        "options": ["Elephant", "Giraffe", "Kangaroo", "Camel"],
+        "answer_index": 1,
+        "points": 1,
+        "hint": "Tallest land animal."
+      },
+      {
+        "type": "mcq",
+        "question": "Which musical instrument produces sound when air is blown through it?",
+        "options": ["Flute", "Piano", "Guitar", "Drums"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Commonly made of metal or wood."
+      },
+      {
+        "type": "mcq",
+        "question": "Which gas do plants release during photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer_index": 0,
+        "points": 1,
+        "hint": "Essential for human respiration."
+      }
+    ],
+    "medium": [
+      {
+        "type": "mcq",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Shakespeare", "Hemingway", "Tolstoy", "Dickens"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "Famous English playwright of 16th century."
+      },
+      {
+        "type": "mcq",
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Gold", "Oxygen", "Silver", "Iron"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Essential for respiration."
+      },
+      {
+        "type": "mcq",
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "options": ["China", "Brazil", "UK", "USA"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Held in Rio de Janeiro."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Diamond", "Gold", "Iron", "Platinum"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "Often used in jewelry."
+      },
+      {
+        "type": "mcq",
+        "question": "Which planet is known as the Morning Star?",
+        "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "Brightest planet visible before sunrise."
+      },
+      {
+        "type": "mcq",
+        "question": "Which language is primarily spoken in Brazil?",
+        "options": ["Spanish", "Portuguese", "French", "English"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Not English or Spanish."
+      },
+      {
+        "type": "mcq",
+        "question": "Which instrument has six strings and is widely used in rock music?",
+        "options": ["Violin", "Guitar", "Piano", "Flute"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Strummed or plucked instrument."
+      },
+      {
+        "type": "mcq",
+        "question": "What is 12 × 12?",
+        "options": ["124", "142", "144", "154"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "Square of twelve."
+      },
+      {
+        "type": "mcq",
+        "question": "Which country is called the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "East Asian island nation."
+      },
+      {
+        "type": "mcq",
+        "question": "Which organ in the human body filters blood and produces urine?",
+        "options": ["Heart", "Lungs", "Kidneys", "Liver"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "You have two of them."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "Na2CO3", "CaCl2"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "Sodium and Chloride."
+      },
+      {
+        "type": "mcq",
+        "question": "Which is the largest planet in our Solar System?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "Has a Great Red Spot."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the capital city of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "It’s not the largest city."
+      },
+      {
+        "type": "mcq",
+        "question": "Which famous scientist proposed the laws of motion and universal gravitation?",
+        "options": ["Einstein", "Newton", "Galileo", "Tesla"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "He also invented calculus."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "options": ["90", "95", "100", "105"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "Centigrade scale."
+      },
+      {
+        "type": "mcq",
+        "question": "Which element is represented by symbol 'Au'?",
+        "options": ["Silver", "Gold", "Iron", "Aluminum"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Used in jewelry and coins."
+      },
+      {
+        "type": "mcq",
+        "question": "Which river is the longest in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Runs through Egypt."
+      },
+      {
+        "type": "mcq",
+        "question": "Which continent has the most countries?",
+        "options": ["Africa", "Asia", "Europe", "South America"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "Home to Nigeria and Kenya."
+      },
+      {
+        "type": "mcq",
+        "question": "What is 15 squared?",
+        "options": ["225", "230", "215", "240"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "15 × 15."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the chemical symbol for water?",
+        "options": ["WO", "H2O", "HO2", "OH2"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Two hydrogens and one oxygen."
+      },
+      {
+        "type": "mcq",
+        "question": "Which country is the largest by area in the world?",
+        "options": ["USA", "China", "Russia", "Canada"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "Spans Europe and Asia."
+      },
+      {
+        "type": "mcq",
+        "question": "Which instrument is used to measure atmospheric pressure?",
+        "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Used in weather stations."
+      },
+      {
+        "type": "mcq",
+        "question": "Which is the densest naturally occurring element?",
+        "options": ["Lead", "Osmium", "Gold", "Iron"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Even denser than gold."
+      },
+      {
+        "type": "mcq",
+        "question": "What is 9 × 8?",
+        "options": ["72", "69", "78", "81"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "Nine times eight."
+      },
+      {
+        "type": "mcq",
+        "question": "Which planet is known for a tilted axis and faint rings, far from the Sun?",
+        "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+        "answer_index": 0,
+        "points": 2,
+        "hint": "Very cold gas giant."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the main gas found in Earth’s atmosphere by volume?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "More than 70% of the atmosphere."
+      },
+      {
+        "type": "mcq",
+        "question": "Which city is known as the Big Apple?",
+        "options": ["Los Angeles", "Chicago", "New York", "Boston"],
+        "answer_index": 2,
+        "points": 2,
+        "hint": "Famous US metropolis."
+      },
+      {
+        "type": "mcq",
+        "question": "What is 100 divided by 5?",
+        "options": ["15", "20", "25", "30"],
+        "answer_index": 1,
+        "points": 2,
+        "hint": "Twenty times five is one hundred."
+      }
+    ],
+    "hard": [
+      {
+        "type": "mcq",
+        "question": "What is the value of π (pi) rounded to 4 decimal places?",
+        "options": ["3.1415", "3.1428", "3.1400", "3.1416"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Starts as 3.14159..."
+      },
+      {
+        "type": "mcq",
+        "question": "Which scientist developed the theory of relativity?",
+        "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "Famous for E = mc²."
+      },
+      {
+        "type": "mcq",
+        "question": "Which gas is most abundant in Earth's atmosphere by volume?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer_index": 2,
+        "points": 3,
+        "hint": "About 78% of air is this gas."
+      },
+      {
+        "type": "mcq",
+        "question": "Who designed the first automatic mechanical computer in the 19th century?",
+        "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "He is often called the 'father of computers'."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the square root of 256?",
+        "options": ["14", "15", "16", "18"],
+        "answer_index": 2,
+        "points": 3,
+        "hint": "16 × 16 = 256."
+      },
+      {
+        "type": "mcq",
+        "question": "Which law states that for every action there is an equal and opposite reaction?",
+        "options": ["First law of motion", "Second law of motion", "Third law of motion", "Law of gravity"],
+        "answer_index": 2,
+        "points": 3,
+        "hint": "Newton’s third law."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the acceleration due to gravity on Earth (approx)? (m/s²)",
+        "options": ["9.8", "8.9", "10.5", "9.2"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Often rounded as 9.8 m/s²."
+      },
+      {
+        "type": "mcq",
+        "question": "Which is the largest non‑polar desert in the world?",
+        "options": ["Sahara", "Gobi", "Arabian", "Kalahari"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Covers much of North Africa."
+      },
+      {
+        "type": "mcq",
+        "question": "In which year did World War II end?",
+        "options": ["1944", "1945", "1946", "1947"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "Mid‑1940s, after 6 years of war."
+      },
+      {
+        "type": "mcq",
+        "question": "Which element has atomic number 79?",
+        "options": ["Ag", "Au", "Pb", "Pt"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "It is gold."
+      },
+      {
+        "type": "mcq",
+        "question": "Which planet has the fastest orbit around the Sun?",
+        "options": ["Mercury", "Mars", "Venus", "Earth"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Closest planet to the Sun."
+      },
+      {
+        "type": "mcq",
+        "question": "Which mathematician is famous for the theorem a² + b² = c² in right‑angled triangles?",
+        "options": ["Euclid", "Pythagoras", "Archimedes", "Newton"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "Greek philosopher."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the freezing point of water at sea level (°C)?",
+        "options": ["0", "-1", "1", "32"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Zero degrees Celsius."
+      },
+      {
+        "type": "mcq",
+        "question": "Which element has atomic number 1?",
+        "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "It is the lightest element."
+      },
+      {
+        "type": "mcq",
+        "question": "In computing, what does 'CPU' stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Central Performance Unit", "Control Processing Unit"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Core of computer processing."
+      },
+      {
+        "type": "mcq",
+        "question": "Which blood type is known as universal donor?",
+        "options": ["A", "B", "AB", "O"],
+        "answer_index": 3,
+        "points": 3,
+        "hint": "Has no A or B antigens."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer_index": 2,
+        "points": 3,
+        "hint": "Often mistaken for other big cities."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the process by which plants make food using sunlight called?",
+        "options": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "Plants convert sunlight to chemical energy."
+      },
+      {
+        "type": "mcq",
+        "question": "What is the approximate speed of light in vacuum? (km/s)",
+        "options": ["300000", "150000", "299792", "250000"],
+        "answer_index": 2,
+        "points": 3,
+        "hint": "About 3×10⁵ km/s."
+      },
+      {
+        "type": "mcq",
+        "question": "Which bone is the longest in the human body?",
+        "options": ["Humerus", "Femur", "Tibia", "Fibula"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "It’s the thigh bone."
+      },
+      {
+        "type": "mcq",
+        "question": "Which scientist discovered penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Accidental discovery with mould."
+      },
+      {
+        "type": "mcq",
+        "question": "Which gas is mainly responsible for the greenhouse effect on Earth?",
+        "options": ["Oxygen", "Methane", "Carbon Dioxide", "Nitrogen"],
+        "answer_index": 2,
+        "points": 3,
+        "hint": "Often abbreviated as CO₂."
+      },
+      {
+        "type": "mcq",
+        "question": "Which noble gas is used in neon signs and lighting tubes?",
+        "options": ["Helium", "Argon", "Oxygen", "Hydrogen"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "Atomic number 18."
+      },
+      {
+        "type": "mcq",
+        "question": "Which device measures electric current in a circuit?",
+        "options": ["Voltmeter", "Ammeter", "Barometer", "Thermometer"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "Measures current (amps)."
+      },
+      {
+        "type": "mcq",
+        "question": "In mathematics, what is the value of 0 factorial (0!)?",
+        "options": ["0", "1", "Undefined", "2"],
+        "answer_index": 1,
+        "points": 3,
+        "hint": "By definition."
+      },
+      {
+        "type": "mcq",
+        "question": "Which Roman numeral stands for 50?",
+        "options": ["L", "C", "X", "V"],
+        "answer_index": 0,
+        "points": 3,
+        "hint": "Half of 100."
+      }
+    ]
+  }
+}
